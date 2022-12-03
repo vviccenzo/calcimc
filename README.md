@@ -1,6 +1,6 @@
 # calc_imc_n3
 
-A new Flutter project.
+Equipe: Vinicius Vicenzo Padilha, Gabriel Furquim e Gustavo Lipinski
 
 ## Getting Started
 
