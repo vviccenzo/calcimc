@@ -1,6 +1,6 @@
 # calc_imc_n3
 
-Equipe: Vinicius Vicenzo Padilha e Gabriel Furquim
+Equipe: Vinicius Vicenzo, Gabriel Furquim e Gustavo Lipinski
 
 ## Getting Started
 
